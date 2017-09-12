@@ -3,6 +3,7 @@ function neww()
 {
 console.log('i am adding new feature');
 console.log('i am done half');
+console.log('completed new feature');
 }
 function something()
 {
